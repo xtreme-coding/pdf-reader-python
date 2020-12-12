@@ -1,0 +1,1 @@
+I have created a script using python and the pyttsx3 module which reads PDF documents.
